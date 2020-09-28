@@ -3,11 +3,10 @@
 apt_update: true
 apt_upgrade: true
 packages:
- - cowsay
  - python3-pip
  - python3-dev
  - build-essential
- - cowsay
+ 
 byobu_default: system 
 
 write_files:
